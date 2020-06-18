@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray_d9">#d9d9d9</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="appColor">#E88765</color>
+    <color name="app_color">#E88765</color>
+    <color name="black">#000000</color>
+    <color name="action_text_color_normal" >#cfcfcf</color>
+    <color name="dark_color">#000000</color>
+    <color name="gray_f7">#f7f7f7</color>
+    <color name="gray_9">#999999</color>
+    <!--修改过的-->
+    <color name="black_3">#494949</color>
+
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+</resources>
